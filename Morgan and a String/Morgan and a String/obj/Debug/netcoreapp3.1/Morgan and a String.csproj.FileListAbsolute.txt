@@ -1,0 +1,13 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Morgan and a String\Morgan and a String\bin\Debug\netcoreapp3.1\Morgan and a String.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Morgan and a String\Morgan and a String\bin\Debug\netcoreapp3.1\Morgan and a String.deps.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Morgan and a String\Morgan and a String\bin\Debug\netcoreapp3.1\Morgan and a String.runtimeconfig.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Morgan and a String\Morgan and a String\bin\Debug\netcoreapp3.1\Morgan and a String.runtimeconfig.dev.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Morgan and a String\Morgan and a String\bin\Debug\netcoreapp3.1\Morgan and a String.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Morgan and a String\Morgan and a String\bin\Debug\netcoreapp3.1\Morgan and a String.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Morgan and a String\Morgan and a String\obj\Debug\netcoreapp3.1\Morgan and a String.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Morgan and a String\Morgan and a String\obj\Debug\netcoreapp3.1\Morgan and a String.AssemblyInfoInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Morgan and a String\Morgan and a String\obj\Debug\netcoreapp3.1\Morgan and a String.AssemblyInfo.cs
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Morgan and a String\Morgan and a String\obj\Debug\netcoreapp3.1\Morgan and a String.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Morgan and a String\Morgan and a String\obj\Debug\netcoreapp3.1\Morgan and a String.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Morgan and a String\Morgan and a String\obj\Debug\netcoreapp3.1\Morgan and a String.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Morgan and a String\Morgan and a String\obj\Debug\netcoreapp3.1\Morgan and a String.genruntimeconfig.cache
